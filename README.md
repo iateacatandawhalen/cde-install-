@@ -1,2 +1,4 @@
-# Nscde-install
-A zsh or bash based installer for nscde and I don’t know what nscde stands for 
+# cde-install
+# installs some classic or classic/retro inspired desktop environments
+# using a bash script or zsh based install script downloaded to your system by
+# curl and automatically run on command
